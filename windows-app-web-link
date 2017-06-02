@@ -1,7 +1,8 @@
 [
   {
     "packageFamilyName": "Microsoft.OfficeHelper_8wekyb3d8bbwe",
-    "paths": [ "/*.csv", "/*.dqy", "/*.iqy", "/*.odc", "/*.ods", "/*.oqy", "/*.rqy", "/*.slk", "/*.xla", "/*.xlam", "/*.xld", "/*.xlk", "/*.xll", "/*.xlm", "/*.xls", "/*.xlsb", "/*.xlshtml", "/*.xlsm", "/*.xlsmhtml", "/*.xlsx", "/*.xlt", "/*.xlthtml", "/*.xltm", "/*.xltx", "/*.xlw", "/*.xlxml", "/*.xml", "/*.odp", "/*.pot", "/*.potm", "/*.potx", "/*.ppa", "/*.ppam", "/*.pps", "/*.ppsm", "/*.ppsx", "/*.ppt", "/*.pptm", "/*.pptx", "/*.pwz", "/*.doc", "/*.docm", "/*.docx", "/*.dot", "/*.dotm", "/*.dotx", "/*.odt", "/*.rtf", "/*.wbk", "/*.wiz" ]
+    "paths": [ "/*.csv", "/*.dqy", "/*.iqy", "/*.odc", "/*.ods", "/*.oqy", "/*.rqy", "/*.slk", "/*.xla", "/*.xlam", "/*.xld", "/*.xlk", "/*.xll", "/*.xlm", "/*.xls", "/*.xlsb", "/*.xlshtml", "/*.xlsm", "/*.xlsmhtml", "/*.xlsx", "/*.xlt", "/*.xlthtml", "/*.xltm", "/*.xltx", "/*.xlw", "/*.xlxml", "/*.xml", "/*.odp", "/*.pot", "/*.potm", "/*.potx", "/*.ppa", "/*.ppam", "/*.pps", "/*.ppsm", "/*.ppsx", "/*.ppt", "/*.pptm", "/*.pptx", "/*.pwz", "/*.doc", "/*.docm", "/*.docx", "/*.dot", "/*.dotm", "/*.dotx", "/*.odt", "/*.rtf", "/*.wbk", "/*.wiz" ],
+    "allowSubdomains": "true"
   },
   {
     "packageFamilyName": "Microsoft.Office.Excel_8wekyb3d8bbwe",
